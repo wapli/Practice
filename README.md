@@ -1,8 +1,8 @@
 # Test0527
-This repository is for the test.
+#This repository is for a practice.
 Every member can practice pushing and pulling in this repository.
 このレポジトリは練習用にしますので, みなさん自分のファイルをpushしたり, pullしたりして練習してみて下さい. 
-＜pushまでの流れ＞
+#＜pushまでの流れ＞
 まず, 自分がローカルリポジトリとして登録したディレクトリに, 作業したいファイルを入れる.
 これで, ローカルリポジトリ内の作業ディレクトリに入ったことになる.
 ↓
