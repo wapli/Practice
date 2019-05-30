@@ -1,8 +1,9 @@
 # Test0527
-#This repository is for a practice.
+# This repository is for a practice.
 Every member can practice pushing and pulling in this repository.
 このレポジトリは練習用にしますので, みなさん自分のファイルをpushしたり, pullしたりして練習してみて下さい. 
-#＜pushまでの流れ＞
+# ＜pushまでの流れ＞
+`<p>
 まず, 自分がローカルリポジトリとして登録したディレクトリに, 作業したいファイルを入れる.
 これで, ローカルリポジトリ内の作業ディレクトリに入ったことになる.
 ↓
@@ -14,3 +15,4 @@ Every member can practice pushing and pulling in this repository.
 ↓
 最後に, pushボタンを押し, 自分がpushする先のリモートリポジトリを選択し,pushする. 
 これで, リモートリポジトリ上にファイルが反映される. 
+</p>`
