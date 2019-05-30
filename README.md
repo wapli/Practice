@@ -1,4 +1,3 @@
-# Test0527
 # This repository is for a practice.
 Every member can practice pushing and pulling in this repository.
 このレポジトリは練習用にしますので, みなさん自分のファイルをpushしたり, pullしたりして練習してみて下さい. 
