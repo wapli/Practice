@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>円柱、円錐の計算</title>
+    </head>
+    <body>
+              
+        
+        
+    
+        <script>
+         
+        var r = window.prompt("半径は？");
+        r = parseInt(r);
+        var h = window.prompt("高さは？");
+        h = parseInt(h);
+        document.write("半径"+r+"、高さ"+h+"の円柱と円錐の体積を求めます<br>");
+        
+        var object ={
+            ENTYU:function (R,H){
+                var entyu = (R*R*H*3.14);
+                return entyu;
+            },
+            ENSUI:function (R,H){
+                var entyu = (object.ENTYU(r,h)/3);
+                return entyu;
+            },
+            
+        }
+        
+        document.write("円柱の体積は"+object.ENTYU(r,h)+"です<br>");
+        document.write("円錐の体積は"+object.ENSUI(r.h)+"でーす。");
+   </script>
+   </body>
+
+        
+</html>
