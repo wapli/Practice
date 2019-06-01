@@ -1,5 +1,7 @@
 # This repository is for a practice.
+<p>
 Every member can practice pushing and pulling in this repository.
+  </p>
 このレポジトリは練習用にしますので, みなさん自分のファイルをpushしたり, pullしたりして練習してみて下さい. 
 # ＜pushまでの流れ＞
 <p>
