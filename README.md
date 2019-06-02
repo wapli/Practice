@@ -4,6 +4,7 @@ Every member can practice pushing and pulling in this repository.
   </p>
 このレポジトリは練習用にしますので, みなさん自分のファイルをpushしたり, pullしたりして練習してみて下さい.
 <br>
+
 # ＜pushまでの流れ＞
 <p>
 まず, 自分がローカルリポジトリとして登録したディレクトリに, 作業したいファイルを入れる.
